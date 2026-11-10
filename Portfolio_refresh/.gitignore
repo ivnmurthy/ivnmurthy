@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+__pycache__/
+portfolio_final.xlsx
+portfolio_final copy.xlsx
+~$portfolio_final.xlsx
+*.bak
+*.archive_restored.bak
